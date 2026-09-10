@@ -1,18 +1,18 @@
 # NoisySounds
 
-We build developer tooling for Web3 and StarkNet builders.
+We build developer tooling for Web3 builders.
 
 ## Projects
 
 ### [ScavTools](https://github.com/NoisySounds/ScavTools)
 
-A developer utilities platform that bundles the tools you reach for every day — JSON formatting, JWT decoding, hash generation, regex testing, StarkNet address shortening, on-chain data reading, and more — into a single dashboard with auth and access logging.
+A developer utilities platform that bundles the tools you reach for every day — JSON formatting, JWT decoding, hash generation, regex testing, address shortening, on-chain data reading, and more — into a single dashboard with auth and access logging.
 
-**Stack:** Next.js + Tailwind (frontend) · NestJS + Prisma (backend) · StarkNet (contracts)
+**Stack:** Next.js + Tailwind (frontend) · NestJS + Prisma (backend) · (contracts)
 
 ## Tech we work with
 
-TypeScript · Next.js · NestJS · StarkNet · Prisma
+TypeScript · Next.js · NestJS · Stellar · Prisma
 
 ---
 
